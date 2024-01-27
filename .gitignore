@@ -1,0 +1,6 @@
+video/
+thumbnail/
+node_modules/
+profile/
+package-lock.json
+.env
